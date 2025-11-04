@@ -58,4 +58,4 @@ Atualmente focado em Java Spring, Mensagerias, React e AWS.
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-0078D4?style=flat-the-badge&logo=stackshare&logoColor=white)
 
 ### 📊 Minhas Estatísticas no GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofullstack&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofullstack&layout=compact&cache_seconds=1800)

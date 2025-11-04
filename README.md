@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Raimundo
-Desenvolvedor Full Stack apaixonado por APIs escaláveis e sistemas robustos.  
-Atualmente focado em Java Spring, Mensagerias, React e AWS.
+Desenvolvedor Full Stack apaixonado por APIs escaláveis e sistemas robustos, com boas praticas de desenvolvimento e boa documentação.  
+Atualmente focado em Mensagerias e AWS.
 
 ### 💻 Tecnologias e Ferramentas
 #### Back-end

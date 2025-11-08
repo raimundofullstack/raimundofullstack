@@ -12,6 +12,7 @@ Atualmente focado em Mensagerias e AWS.
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-the-badge&logo=express&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-the-badge&logo=hibernate&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-the-badge)
 
 
 
@@ -22,6 +23,7 @@ Atualmente focado em Mensagerias e AWS.
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat-the-badge&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-the-badge)
 
 
 #### Banco de Dados e Armazenamentos

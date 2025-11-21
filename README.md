@@ -2,6 +2,12 @@
 Desenvolvedor Full Stack apaixonado por APIs escaláveis e sistemas robustos, com boas praticas de desenvolvimento e boa documentação.  
 Atualmente focado em Mensagerias e AWS.
 
+### ⚡ Stack Principal
+![Full Stack](https://img.shields.io/badge/Full%20Stack-0078D4?style=flat-the-badge&logo=stackshare&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-the-badge&logo=angular&logoColor=white)
+
 ### 💻 Tecnologias e Ferramentas
 #### Back-end
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-the-badge&logo=openjdk&logoColor=white)
@@ -13,8 +19,6 @@ Atualmente focado em Mensagerias e AWS.
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-the-badge&logo=hibernate&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-the-badge)
-
-
 
 
 #### Front-end
@@ -56,8 +60,6 @@ Atualmente focado em Mensagerias e AWS.
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flatr-the-badge&logo=apache-kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-the-badge&logo=amazonaws&logoColor=white)
 
-### ⚡ Stack Principal
-![Full Stack](https://img.shields.io/badge/Full%20Stack-0078D4?style=flat-the-badge&logo=stackshare&logoColor=white)
 
 ### 📊 Minhas Estatísticas no GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundofullstack&layout=compact&cache_seconds=1800)
